@@ -58,7 +58,7 @@ _El DER fue extraido del MySQL y el diagrama de clases UML fue creado con Umlet_
 ## Autores ✒️
 
 * **Caliva, Gaston Rafael** - [GastonRafaelCaliva](https://github.com/GastonRafaelCaliva)
-* **Vargas, Carlos Ariel** - 
-* **Guzmán Walter Omar** - 
-* **Cardozo Macarena Soledad** - 
-* **Sumbaine Fátima Isabel** - 
+* **Vargas, Carlos Ariel** - [Arie-Vargas](https://github.com/Arie-Vargas)
+* **Guzmán Walter Omar** - [......](https://github.com/)
+* **Cardozo Macarena Soledad** - [SOLE-VME](https://github.com/SOLE-VME)
+* **Sumbaine Fátima Isabel** - [fatisumbaine](https://github.com/fatisumbaine)
