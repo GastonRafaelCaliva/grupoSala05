@@ -14,17 +14,17 @@ https://www.mysql.com/products/workbench/
  ```
 
 ## Antes de probarlo ⚙️
-_* Debes ingresar a tu mysql, preferentemente a tu conexión, abres el script de la base de datos que esta en el repositorio y lo ejecutas, con esto ya tendrías la base de datos cargada junto con datos como los clientes y administradores, y algunas compras ya realizadas._
-_* Luego deberías abrir el eclipse, cargar el proyecto que esta en el repositorio y hacer la conexión de eclipse con mysql. Luego muy importante debes entrar al paquete baseDeDatos -> a la clase usuarioDBPassword y en las siguientes lineas de código._
+* Debes ingresar a tu mysql, preferentemente a tu conexión, abres el script de la base de datos que esta en el repositorio y lo ejecutas, con esto ya tendrías la base de datos cargada junto con datos como los clientes y administradores, y algunas compras ya realizadas.
+* Luego deberías abrir el eclipse, cargar el proyecto que esta en el repositorio y hacer la conexión de eclipse con mysql. Luego muy importante debes entrar al paquete baseDeDatos -> a la clase usuarioDBPassword y en las siguientes lineas de código.
  ```
   static final String USER = "Tu usuario"; // <- Aquí poner tu usuario de tu conexión al mysql 
   static final String PASS = "Tu contraseña"; // <- Aquí poner tu contraseña de dicha conexion
  ```
 
 ## Como probarlo 🚀
-_ * En el eclipse te situas en la clase inicio y corres el programa_
-_ * Veras un menu para iniciar sesion o registrarte_
-_ * En caso de que te registres solo serás un cliente_
+* En el eclipse te situas en la clase inicio y corres el programa.
+* Veras un menu para iniciar sesion o registrarte.
+* En caso de que te registres solo serás un cliente.
 
 ### Inicio de sesion 📌
 #### En caso de que inicies sesion como cliente📄 podrás acceder a las siguientes opciones:
