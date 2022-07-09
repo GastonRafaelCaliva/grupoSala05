@@ -1,5 +1,5 @@
 # Sala5 Supermark 
-_plataforma donde publicar sus productos, gestionar y premiar a los usuarios que se registren en la aplicación, con la intención de disminuir la saturación de las colas sin perder clientes._
+_Plataforma donde puede publicar sus productos, gestionar a los usuarios que se registren en la aplicación, con la intención de disminuir la saturación de las colas sin perder clientes._
 _*(Comisión: Antes CN8 con el profesor René Mogro -> Ahora CN4 con el profesor Ramiro)*_
 
 ## Pre-requisitos 📋
