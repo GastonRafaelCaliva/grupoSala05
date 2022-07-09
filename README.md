@@ -22,9 +22,9 @@ _* Luego deberías abrir el eclipse, cargar el proyecto que esta en el repositor
  ```
 
 ## Como probarlo 🚀
-_* En el eclipse te situas en la clase inicio y corres el programa_
-_* Veras un menu para iniciar sesion o registrarte_
-_* En caso de que te registres solo serás un cliente_
+_ * En el eclipse te situas en la clase inicio y corres el programa_
+_ * Veras un menu para iniciar sesion o registrarte_
+_ * En caso de que te registres solo serás un cliente_
 
 ### Inicio de sesion 📌
 #### En caso de que inicies sesion como cliente📄 podrás acceder a las siguientes opciones:
