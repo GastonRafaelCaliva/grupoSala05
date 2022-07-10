@@ -27,6 +27,18 @@ https://www.mysql.com/products/workbench/
 * En caso de que te registres solo serás un cliente.
 
 ### Inicio de sesion 📌
+#### Puede iniciar sesión como cliente o como administrador, teniendo en cuenta los usuarios creados previamente:
+| **Usuario** | **Contraseña** | **Rol** |
+| :---: | :---: | :---: |
+| gaston | grc | admin |
+| ariel | acv | admin |
+| walter | wog | admin |
+| macarena | msc | admin |
+| fatima | fis | admin |
+| rene | cn8 | admin |
+| pepito| ppp | cliente |
+| ramiro | rrr | cliente |
+
 #### En caso de que inicies sesion como cliente📄 podrás acceder a las siguientes opciones:
 * 1 -> Seleccionar productos
 * 2 -> Ver listado de productos seleccionados
